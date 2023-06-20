@@ -1,0 +1,119 @@
+[
+    {
+      "id": 1,
+      "producto": "Silla Eames",
+      "img": "../img/sillas/sillasEames.jpg",
+      "cantidad": 1,
+      "precio": 20000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 2,
+      "producto": "Silla Eames con amohadon",
+      "img": "../img/sillas/sillasEamesConAlmohadon.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 3,
+      "producto": "Silla Eames ecocuero tapizado",
+      "img": "../img/sillas/sillasEamesEcocueroTapizadas.jpeg",
+      "cantidad": 1,
+      "precio": 20500,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 4,
+      "producto": "Silla Eames para niños",
+      "img": "../img/sillas/sillasEamesParaNiños.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 5,
+      "producto": "Silla ecocuero",
+      "img": "../img/sillas/sillasEcocuero.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 6,
+      "producto": "Silla eiffel",
+      "img": "../img/sillas/sillasEiffel.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 7,
+      "producto": "Silla hexagonales",
+      "img": "../img/sillas/sillasHexagonales.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 8,
+      "producto": "Silla tolix",
+      "img": "../img/sillas/sillasTolix.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 9,
+      "producto": "Silla tulip con almohadon",
+      "img": "../img/sillas/sillasTulipConAlmohadon.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 10,
+      "producto": "Silla tulip con almohadon tapizadas en lino",
+      "img": "../img/sillas/sillasTulipConAlmohadonTapizadasEnLino.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 11,
+      "producto": "Banqueta Eames",
+      "img": "../img/sillas/banquetasEames.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 12,
+      "producto": "Banqueta Tolix",
+      "img": "../img/sillas/banquetasTolix.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    },
+    {
+      "id": 13,
+      "producto": "Taburete Tolix",
+      "img": "../img/sillas/tabuleteTolix.jpg",
+      "cantidad": 1,
+      "precio": 21000,
+      "categoria": "silla",
+      "stock": true
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "producto": "mesa eames rectangular laqueada",
+        "img": "../img/mesas/mesaEamesRectangularLaqueada.jpg",
+        "cantidad": 1,
+        "precio": 30000,
+        "categoria": "mesa",
+        "stock": true
+    },
+    {
+        "id": 2,
+        "producto": "mesa eames redonda de vidrio",
+        "img": "../img/mesas/mesaEamesRedondaDeVidrio.jpg",
+        "cantidad": 1,
+        "precio": 31000,
+        "categoria": "mesa",
+        "stock": true
+    },
+    {
+      "id": 3,
+      "producto": "mesa eames redonda laqueada",
+      "img": "../img/mesas/mesaRedondaLaqueada.jpg",
+      "cantidad": 1,
+      "precio": 30500,
+      "categoria": "mesa",
+      "stock": true
+    },
+    {
+      "id": 4,
+      "producto": "mesa eames para niños",
+      "img": "../img/mesas/mesaEamesParaNiños.jpg",
+      "cantidad": 1,
+      "precio": 30500,
+      "categoria": "mesa",
+      "stock": true
+    },
+    {
+      "id": 5,
+      "producto": "mesa tulip rectangular de vidrio",
+      "img": "../img/mesas/mesaTulipRectangularDeVidrio.jpeg",
+      "cantidad": 1,
+      "precio": 30500,
+      "categoria": "mesa",
+      "stock": true
+    }
+]

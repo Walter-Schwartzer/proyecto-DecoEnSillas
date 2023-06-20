@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "producto": "sillon eames",
+    "img": "../img/sillon/sillonEames.jpg",
+    "cantidad": 1,
+    "precio": 30500,
+    "categoria": "sillones",
+    "stock": true
+  },
+  {
+    "id": 2,
+    "producto": "sillon eiffel",
+    "img": "../img/sillon/sillonEiffel.jpg",
+    "cantidad": 1,
+    "precio": 30500,
+    "categoria": "sillones",
+    "stock": true
+  },
+  {
+    "id": 3,
+    "producto": "sillon mecedora",
+    "img": "../img/sillon/sillonMecedora.jpg",
+    "cantidad": 1,
+    "precio": 30500,
+    "categoria": "sillones",
+    "stock": true
+  },
+  {
+    "id": 4,
+    "producto": "sillon tulip suizo",
+    "img": "../img/sillon/sillonTulipSuizo.jpg",
+    "cantidad": 1,
+    "precio": 30500,
+    "categoria": "sillones",
+    "stock": true 
+  }
+]
