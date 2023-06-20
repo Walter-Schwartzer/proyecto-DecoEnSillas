@@ -446,6 +446,14 @@ footer {
     .contact-form .cont-enviar:hover {
       color: #fdf3a4; }
 
+@media screen and (max-width: 1400px) {
+  #box-search a {
+    position: relative;
+    left: 100px; } }
+@media screen and (max-width: 1200px) {
+  #box-search a {
+    position: relative;
+    left: 150px; } }
 @media screen and (max-width: 991px) {
   .ver-cart {
     position: absolute;
@@ -487,7 +495,11 @@ footer {
       right: 105px;
       top: 65px; }
     .ctn-modal .ctn-total {
-      margin-left: 320px; } }
+      margin-left: 320px; }
+
+  #box-search a {
+    position: relative;
+    left: 300px; } }
 @media screen and (max-width: 770px) {
   .ctn-modal {
     width: 650px;
@@ -505,7 +517,11 @@ footer {
     .ctn-modal .modal-ctn .delete-product {
       right: 100px; }
     .ctn-modal .ctn-total {
-      margin-left: 275px; } }
+      margin-left: 275px; }
+
+  #box-search a {
+    position: relative;
+    left: 350px; } }
 @media screen and (max-width: 700px) {
   .contact-form input {
     width: 550px; }
@@ -573,6 +589,10 @@ footer {
     .ctn-modal .ctn-total {
       margin-left: 160px;
       font-size: 1rem; } }
+@media screen and (max-width: 500px) {
+  #box-search a {
+    position: relative;
+    left: 400px; } }
 @media screen and (max-width: 450px) {
   .ver-cart {
     position: absolute;
@@ -628,7 +648,11 @@ footer {
       margin-left: 120px; } }
 @media screen and (max-width: 405px) {
   .ctn-modal {
-    margin: 0 -5px; } }
+    margin: 0 -5px; }
+
+  #box-search a {
+    position: relative;
+    left: 410px; } }
 @media screen and (max-width: 380px) {
   .ctn-articles .ctn-sillas-padre {
     width: 320px; }
@@ -647,6 +671,10 @@ footer {
     width: 220px; }
 
   .ctn-modal {
-    margin: 0 -12px; } }
+    margin: 0 -12px; }
+
+  #box-search a {
+    position: relative;
+    left: 430px; } }
 
 /*# sourceMappingURL=style.css.map */
